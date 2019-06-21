@@ -1,2 +1,4 @@
 # hello-world
-first hello
+
+First Hello
+The first is always the...easiest
